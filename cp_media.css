@@ -15,7 +15,7 @@
 
 /* Audio and Video Player Styles */
 
-audio, video{
+audio, video {
    box-shadow: rgb(51, 51, 51) 8px 8px 15px;
    display: block;
    margin: 10px auto;
@@ -24,7 +24,7 @@ audio, video{
 
 /* Track Styles */
 
-::cue{ 
+::cue { 
    background: rgba(0, 0, 0, 0.3); 
    color: orange; 
    font: 1.2em serif; 
